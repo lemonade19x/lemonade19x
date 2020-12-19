@@ -1,2 +1,2 @@
-![](https://user-images.githubusercontent.com/40102073/91555234-90e63580-e96b-11ea-945a-c7a0eff20c90.jpg)
-<h1 align="center">やぁ！！！れもねーどだよ！！！</h1>
+![](https://user-images.githubusercontent.com/4![images (3)](https://user-images.githubusercontent.com/40102073/102697136-c09cae80-4276-11eb-8560-b1e4bdbd1bd4.jpeg)
+<h1 align="center">れもねーどです。主に校正とか翻訳してます。<br>ちなみにドラゴンですし史上最強メイドです♥<br>Bootstrap最高★</h1>
