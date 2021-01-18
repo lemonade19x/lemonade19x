@@ -4,7 +4,7 @@
 
 HTMLとCSSを軽く書けます。
 
-**トールさん最強！**
+<span style="text-size:200%">**トールさん最強！**</span>
 
 <img src="https://emoji.gg/assets/emoji/2533_tohru.gif" width="200">
 
