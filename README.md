@@ -1,2 +1,9 @@
-![](https://user-images.githubusercontent.com/40102073/102697136-c09cae80-4276-11eb-8560-b1e4bdbd1bd4.jpeg)
-<h1 align="center">れもねーどです。主に校正とか翻訳してます。<br>ちなみにドラゴンだし一応史上最強メイドです♥<br>Bootstrap最高★</h1>
+# れもねーどです:heart:
+
+日本語の校正や翻訳をしています**（趣味程度ですが）**
+
+HTMLとCSSを軽く書けます。
+
+# トールさん最強！[<img src="https://emoji.gg/assets/emoji/2533_tohru.gif" alt="tohru" style="zoom: 33%;" />](https://emoji.gg/emoji/2533_tohru)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/lemonade19x?style=social)![Discord](https://img.shields.io/discord/686108395333615627)![GitHub followers](https://img.shields.io/github/followers/lemonade19x?style=social)
