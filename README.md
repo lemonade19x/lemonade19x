@@ -4,6 +4,10 @@
 
 HTMLとCSSを軽く書けます。
 
-<span style="font-size:200%;">**トールさん最強！**</span><img src="https://emoji.gg/assets/emoji/2533_tohru.gif" alt="tohru" width="200" />
+**トールさん最強！**
 
-![Twitter Follow](https://img.shields.io/twitter/follow/lemonade19x?style=social)![Discord](https://img.shields.io/discord/686108395333615627)![GitHub followers](https://img.shields.io/github/followers/lemonade19x?style=social)
+<img src="https://emoji.gg/assets/emoji/2533_tohru.gif" width="200">
+
+![](https://img.shields.io/twitter/follow/lemonade19x?style=social)
+![](https://img.shields.io/discord/686108395333615627)
+![](https://img.shields.io/github/followers/lemonade19x?style=social)
