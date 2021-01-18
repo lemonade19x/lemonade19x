@@ -6,7 +6,7 @@ HTMLとCSSを軽く書けます。
 
 # トールさん最強！
 
-![](https://emoji.gg/assets/emoji/2533_tohru.gif)](https://emoji.gg/emoji/2533_tohru)
+![](https://emoji.gg/assets/emoji/2533_tohru.gif)
 
 ![](https://img.shields.io/twitter/follow/lemonade19x?style=social)
 ![](https://img.shields.io/discord/686108395333615627)
