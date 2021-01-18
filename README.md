@@ -4,8 +4,7 @@
 
 HTMLとCSSを軽く書けます。
 
-<span style="font-size:200%;">**トールさん最強！**</span>
-
+<h1>トールさん最強！</h1>
 <img src="https://emoji.gg/assets/emoji/2533_tohru.gif" width="200">
 
 ![](https://img.shields.io/twitter/follow/lemonade19x?style=social)
