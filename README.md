@@ -4,7 +4,7 @@
 
 HTMLとCSSを軽く書けます。  
 PythonとかRubyとか。  
-![詳しくはここ見て、どうぞ。](https://umaru.gq/)
+[詳しくはここ見て、どうぞ。](https://umaru.gq/)
 
 # トールさん最強！
 ![](https://emoji.gg/assets/emoji/2533_tohru.gif)
