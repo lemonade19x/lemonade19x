@@ -7,11 +7,10 @@ PythonとかRubyとか。
 ![詳しくはここ見て、どうぞ。](https://umaru.gq/)
 
 # トールさん最強！
-![](https://emoji.gg/assets/emoji/253_tohru.gif)
+![](https://emoji.gg/assets/emoji/2533_tohru.gif)
 
 ##### うまるちゃんさんも最強…らしいですよ。
-![](https://emoji.gg/emoji/8938_intslUmaruChanGrin)
-
+![](https://emoji.gg/emoji/8938_intslUmaruChanGrin.gif)
 ![](https://img.shields.io/twitter/follow/lemonade19x?style=social)
 ![](https://img.shields.io/discord/686108395333615627)
 ![](https://img.shields.io/github/followers/lemonade19x?style=social)
